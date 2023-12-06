@@ -1,0 +1,45 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Finger Paint', cursive;
+    background-color: #37505C;
+    color: #F2C14E;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.container {
+    text-align: center;
+}
+
+h1 {
+    font-size: 36px;
+    margin-bottom: 20px;
+}
+
+.options {
+    display: flex;
+    gap: 20px;
+}
+
+button {
+    padding: 10px 20px;
+    border-radius: 10px;
+    background-color: #F2C14E;
+    color: #333;
+    border: none;
+    font-size: 18px;
+    transition: 200ms transform;
+    font-weight: 600;
+}
+
+button:hover {
+    cursor: pointer;
+    transform: translateY(-2px);
+}
