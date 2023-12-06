@@ -1,0 +1,47 @@
+body {
+    font-family: 'Finger Paint', cursive;
+    background-color: #37505C;
+    color: #F2C14E;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.container {
+    text-align: center;
+}
+
+h1 {
+    font-size: 36px;
+    color: #F2C14E; /* Golden color */
+    margin-bottom: 20px;
+}
+
+.rules-list {
+    list-style-type: none;
+    padding: 0;
+    margin-bottom: 30px;
+}
+
+.rules-list li {
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+button {
+    padding: 10px 20px;
+    border-radius: 10px;
+    background-color: #F2C14E;
+    color: #333;
+    border: none;
+    font-size: 18px;
+    transition: 200ms transform;
+    font-weight: 600;
+}
+
+button:hover {
+    cursor: pointer;
+    transform: translateY(-2px);
+}
