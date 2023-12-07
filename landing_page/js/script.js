@@ -40,7 +40,7 @@ window.onload = function () {
     let slidebuttonleft = document.getElementById('slideButtonLeft');
 
 
-    slideButtonRight.addEventListener('click', function (e) {
+    slidebuttonRight.addEventListener('click', function (e) {
         e.preventDefault();
 
         for (let i = 0; i < slides.length; i++) {
@@ -56,7 +56,7 @@ window.onload = function () {
     });
 
 
-    slideButtonLeft.addEventListener('click', function (e) {
+    slidebuttonleft.addEventListener('click', function (e) {
         e.preventDefault();
 
         for (let i = 0; i < slides.length; i++) {
