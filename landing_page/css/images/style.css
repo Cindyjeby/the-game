@@ -1,0 +1,27 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+a {
+    text-decoration: none;
+}
+
+
+.container-center {
+    max-width: 920px;
+    margin: auto;
+}
+
+.logo {
+    background-image: url('../images/logo.png');
+    background-position: 0 0;
+    width: 228px;
+    height: 34px;
+   
+}
+
+input {
+    float: right;
+}
