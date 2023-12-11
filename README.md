@@ -46,6 +46,7 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 For any questions or feedback, please reach out to 
 [Linked in](https://www.linkedin.com/in/ruth-dorcas-66262022b/.md)
+[Linked in](https://www.linkedin.com/in/cynthia-kiptum-5140a0271?trk=contact-info.md)
 
 
 
