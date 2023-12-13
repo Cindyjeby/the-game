@@ -1,4 +1,4 @@
-## Tic Tac Toe Game
+## Tic-Tac-Toe Game
 
 <img width="1280" alt="Screenshot 2023-12-11 at 12 50 04" src="https://github.com/Cindyjeby/the-game/assets/106535441/a900f0de-5481-4001-9586-98d19c8b61b9">
 
