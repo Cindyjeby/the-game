@@ -45,7 +45,7 @@ If you have any suggestions or improvements for the game, feel free to fork the 
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
 ### deploying
-[Deploy](https://cindyjeby.github.io/the-game/.md)
+[Deploy]([https://cindyjeby.github.io/the-game/](https://the-tic-tac-toe-game-three.vercel.app/).md)
 
 ### Credits
 
