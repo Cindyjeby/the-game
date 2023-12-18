@@ -60,6 +60,7 @@ button {
     font-size: 18px;
     transition: 200ms transform;
     font-weight: 600;
+    margin-right: 10px; /*test code*/
 }
 
 button:hover {
@@ -101,6 +102,15 @@ button:hover {
         position: relative;
         top: 0;
         right: 0;
-        margin-top: 20px;
+        margin-top: 10px; /* Adjusted margin */
+        width: 150px; /* Adjusted width */
+    }
+
+    .score-table th {
+        font-size: 14px; /* Adjusted font size */
+    }
+
+    .score-table td {
+        font-size: 12px; /* Adjusted font size */
     }
 }
