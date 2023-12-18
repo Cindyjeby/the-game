@@ -90,3 +90,17 @@ button:hover {
     text-align: center;
     font-size: 14px;
 }
+
+/* small devices*/
+@media only screen and (max-width: 600px) {
+    td {
+        font-size: 30px;
+    }
+
+    .score-table {
+        position: relative;
+        top: 0;
+        right: 0;
+        margin-top: 20px;
+    }
+}
